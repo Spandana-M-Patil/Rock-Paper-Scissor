@@ -15,5 +15,3 @@ This is a simple Rock, Paper, Scissors game implemented using HTML, CSS, and Jav
 ## Installation
 1. Clone the repository: `git clone https://github.com/Spandana-M-Patil/Rock-Paper-Scissor.git`
 2. Open `home.html` in a web browser to play the game.
-
-
